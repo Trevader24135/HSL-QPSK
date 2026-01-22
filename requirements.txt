@@ -3,3 +3,4 @@ scipy
 apng
 pillow
 plotly
+kaleido
